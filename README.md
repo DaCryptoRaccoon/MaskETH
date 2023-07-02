@@ -12,6 +12,30 @@
     Donations BTC: 19Qz2mid5CsGQ49Zztrt8k2NhGGUMT1S8L
     Donations LTC: LTGNf2ANWQGZCXmu5NPACUhtCgNHHWCZVs
     ------------------------------------------------------------------------------------------------------------------
+    Welcome to ETHMask!!
+
+    This command line interface allows you to mix Ethereum transactions.
+
+    Here's a quick guide on how to use it:
+
+    Enter your private key and wallet address and Infura API key into the .env file.
+    This wallet address and private key in .env are used to send the payments to the new generated addresses by ETHMix.
+
+    You have options to enter a custom RPC endpoint and proxy, but these are not required options as the default will use Infura set in the .env         file.
+
+    rpc <RPC_endpoint>: This command sets the RPC endpoint (Not required by default).
+                         For example, 'rpc https://mainnet.infura.io/v3/YOUR-PROJECT-ID' will set the RPC endpoint to the provided Infura address.
+
+    proxy <Proxy_URL>: This command sets the Proxy URL (Not required by default).
+                       For example, 'proxy http://127.0.0.1:9050' will set the Proxy URL to a local Tor proxy.
+
+    new_accounts <number>: This command generates a number of new Ethereum accounts.
+                            For example, 'new_accounts 100' will create 100 new accounts.
+
+    send_transactions: This command prompts you to select a CSV file with account details, then sends transactions to those accounts.
+
+    For more information about a command, type 'help <command>'.
+    For example, 'help new_accounts' will display more information about the 'new_accounts' command.
 
 ETHMask is a command-line interface (CLI) tool for mixing Ethereum transactions.
 
