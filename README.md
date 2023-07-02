@@ -43,6 +43,22 @@ ETHMask is a command-line interface (CLI) tool for mixing Ethereum transactions.
 
 ETHMask provides a simple and secure way to mix Ethereum transactions, allowing users to enhance their transaction privacy. It generates new Ethereum accounts and sends transactions to those accounts, making it difficult to trace the original sender.
 
+However, it's important to note that ETHMask is not classified as a traditional mixer because it does not mix funds with any other user. Instead, it focuses on creating a chain of transactions within the user's control, making it harder to trace the source of funds. By sending transactions from the user's wallet address to newly generated addresses, ETHMask aims to increase privacy by obscuring the transaction history.
+
+Here are some advantages and benefits of using ETHMask:
+
+Enhanced Privacy: By using ETHMask, users can improve the privacy of their Ethereum transactions. The chain of transactions created by ETHMask makes it challenging to link the original sender to the final recipient, thus increasing privacy.
+
+Obfuscation of Transaction History: ETHMask generates new Ethereum accounts for each transaction, making it difficult to trace the flow of funds. This can help prevent others from identifying the source of funds and associating it with specific addresses.
+
+User Control: Unlike traditional mixers that rely on pooling funds with other users, ETHMask allows users to maintain full control over their funds. Users generate their own new accounts and control the transaction flow, eliminating the need to trust third parties with their funds.
+
+Simplicity and Ease of Use: ETHMask provides a user-friendly command-line interface (CLI) that simplifies the process of generating new accounts and sending transactions. Users can easily interact with the script and initiate transactions without extensive technical knowledge.
+
+Flexibility: ETHMask offers flexibility in terms of customizing transaction amounts and gas prices. Users can choose the percentage of the balance to be sent or specify a custom value, providing control over the transaction details.
+
+It's important to note that while ETHMask can enhance privacy, it cannot provide complete anonymity. Transaction details, including addresses and amounts, are still recorded on the Ethereum blockchain. Additionally, users should be mindful of applicable legal and regulatory requirements when using ETHMask or engaging in cryptocurrency-related activities.
+
 ## Features
 
 - Create new Ethereum accounts securely
