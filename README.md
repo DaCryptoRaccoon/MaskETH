@@ -1,5 +1,18 @@
 # ETHMask An Ethereum Transaction Mixing Tool
 
+    :::::::::: ::::::::::: :::    ::: ::::    ::::      :::      ::::::::  :::    ::: 
+    :+:            :+:     :+:    :+: +:+:+: :+:+:+   :+: :+:   :+:    :+: :+:   :+:  
+    +:+            +:+     +:+    +:+ +:+ +:+:+ +:+  +:+   +:+  +:+        +:+  +:+   
+    +#++:++#       +#+     +#++:++#++ +#+  +:+  +#+ +#++:++#++: +#++:++#++ +#++:++    
+    +#+            +#+     +#+    +#+ +#+       +#+ +#+     +#+        +#+ +#+  +#+   
+    #+#            #+#     #+#    #+# #+#       #+# #+#     #+# #+#    #+# #+#   #+#  
+    ##########     ###     ###    ### ###       ### ###     ###  ########  ###    ### CLI v1.0
+    -------------------------------------------------------------------------------------------------------------------
+    Donations ETH: 0xE2f739D09e372a627c563C642321e51b9E64BcB3
+    Donations BTC: 19Qz2mid5CsGQ49Zztrt8k2NhGGUMT1S8L
+    Donations LTC: LTGNf2ANWQGZCXmu5NPACUhtCgNHHWCZVs
+    ------------------------------------------------------------------------------------------------------------------
+
 ETHMask is a command-line interface (CLI) tool for mixing Ethereum transactions.
 
 ## Overview
@@ -98,6 +111,15 @@ The sweep command prompts you for the master address, lists all CSV files in the
 The Ethereum Sweeper is designed to run on Ethereum's Sepolia Testnet. Change the HTTP Provider URL in the Web3.HTTPProvider function if you want to use it on the Ethereum Mainnet or a different testnet.
 
 Be cautious when entering the "master" Ethereum address as all the ETH from the other addresses will be transferred to it. Always double-check addresses before transferring funds and ensure that you never share your private keys.
+
+## Help Me Fund More Projects
+
+help me fund more cool projects like this for other chains like Bitcoin and Litecoin donations can be sent to the addresses below.
+Thank you for the support 
+
+    Donations ETH: 0xE2f739D09e372a627c563C642321e51b9E64BcB3
+    Donations BTC: 19Qz2mid5CsGQ49Zztrt8k2NhGGUMT1S8L
+    Donations LTC: LTGNf2ANWQGZCXmu5NPACUhtCgNHHWCZVs
 
 ## License
 This project is licensed under the MIT License.
