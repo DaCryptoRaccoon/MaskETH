@@ -116,6 +116,10 @@ new_accounts 100
 Send transactions to the accounts:
 send_transactions
 
+Once you have created the accounts and sent the transactions it will as if you wish to run the sweep tool (yes/no)
+
+If you select no you can run it when you are ready by executing the python script ETHSweeper.py at a later date.
+
 # ETHSweeper After Stage 1
 
 ETHSweeper is a script that automates the process of sweeping small amounts of Ethereum.
