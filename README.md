@@ -129,6 +129,7 @@ Before using ETHMask, make sure you have the following:
 - Ethereum wallet addresses and their corresponding private keys stored in a CSV file
 - Infura API key (sign up at [https://infura.io/](https://infura.io/))
 - Etherscan API key (sign up at [https://etherscan.io/](https://etherscan.io/))
+- Video Demo [ https://vimeo.com/manage/videos/842683100 ]
 
 ## Installation
 
