@@ -125,7 +125,7 @@ It's important to note that while ETHMask can enhance privacy, it cannot provide
 
 Before using ETHMask, make sure you have the following:
 
-- Python 3.7 or higher installed
+- Python 3.10.10 or higher installed
 - Ethereum wallet addresses and their corresponding private keys stored in a CSV file
 - Infura API key (sign up at [https://infura.io/](https://infura.io/))
 - Etherscan API key (sign up at [https://etherscan.io/](https://etherscan.io/))
