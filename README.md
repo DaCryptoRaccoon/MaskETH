@@ -1,4 +1,4 @@
-# ETHMask An Ethereum Transaction Mixing Tool
+# ETHMask An Ethereum Transaction Masking Tool
 
     :::::::::: ::::::::::: :::    ::: ::::    ::::      :::      ::::::::  :::    ::: 
     :+:            :+:     :+:    :+: +:+:+: :+:+:+   :+: :+:   :+:    :+: :+:   :+:  
