@@ -152,6 +152,12 @@ WALLET_ADDRESS=<your-wallet-address>
 INFURA_API_KEY=<your-infura-api-key>
 ETHERSCAN_API_KEY=<your-etherscan-api-key>
 
+ETHMask is set to run on the ETH sepolia testnet.
+
+If you want to use this on main net you must adjust the RPC endpoint to use the infura node main net.
+                            ENSURE YOU ARE TRANSACTING ON THE CORRECT NETWORK 
+                                        MISTAKES CANNOT BE UNDONE!
+
 Run ETHMask:
 
 python ETHMask.py
