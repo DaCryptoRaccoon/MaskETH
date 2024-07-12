@@ -1,7 +1,5 @@
 # MaskETH An Ethereum Transaction Masking Tool
 
-Website : https://MaskETH.pro
-Telegram Bot : https://t.me/EthereumMaskBot
 
     :::::::::: ::::::::::: :::    ::: ::::    ::::      :::      ::::::::  :::    ::: 
     :+:            :+:     :+:    :+: +:+:+: :+:+:+   :+: :+:   :+:    :+: :+:   :+:  
